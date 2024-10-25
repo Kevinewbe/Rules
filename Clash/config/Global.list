@@ -94,6 +94,7 @@ DOMAIN,login.microsoftonline.com
 DOMAIN,self.events.data.microsoft.com
 DOMAIN,bihai.cf
 DOMAIN,api.ipify.org
+DOMAIN-SUFFIX,zhum.de
 DOMAIN-SUFFIX,nyc.mn
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
